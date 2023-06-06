@@ -1,0 +1,21 @@
+[submodule "DatabaseSystem"]
+	path = DatabaseSystem
+	url = git@github.com:Lab-93/DatabaseSystem.git
+[submodule "MarketData"]
+	path = MarketData
+	url = git@github.com:Lab-93/MarketData.git
+[submodule "HubSocket"]
+	path = HubSocket
+	url = git@github.com:Lab-93/HubSocket.git
+[submodule "ClientServer"]
+	path = ClientServer
+	url = git@github.com:Lab-93/ClientServer.git
+[submodule "Cryptogram"]
+	path = Cryptogram
+	url = git@github.com:Lab-93/Cryptogram.git
+[submodule "SQLite3"]
+	path = SQLite3
+	url = git@github.com:Lab-93/SQLite3.git
+[submodule "AssetDashboard"]
+	path = AssetDashboard
+	url = git@github.com:Lab-93/AssetDashboard.git
